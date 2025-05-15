@@ -1,2 +1,3 @@
 # practice-repo
-creating a repo to practice github
+creating a repo to practice github 
+Author - Ibrahim Patel
